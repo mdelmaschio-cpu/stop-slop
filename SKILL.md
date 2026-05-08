@@ -214,6 +214,22 @@ Rate 1-10 on each dimension:
 **After:**
 > "The best teams optimize for learning, not productivity."
 
+### Example 6: Passive Voice
+
+**Before:**
+> "The decision was made to reduce headcount. Mistakes were made during the planning phase, and the timeline was pushed back significantly."
+
+**After:**
+> "Leadership cut headcount. The planning team underestimated scope and pushed the deadline three months."
+
+### Example 7: False Agency + Narrator-from-a-Distance
+
+**Before:**
+> "When the data tells us that retention is dropping, the natural response is to look inward. Accountability emerges when teams feel safe enough to surface problems."
+
+**After:**
+> "Your retention numbers are dropping. Look at why your team stopped flagging problems — and fix that first."
+
 ## Feedback Log
 
 **Before executing this skill, read `feedback.log` in this skill's directory.**
